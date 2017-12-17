@@ -6,7 +6,7 @@ Qt和Golang混编开发的桌面应用，可用于批量提取图片的核心部
 图片的底色必须是白色或者其他纯色。
 
 界面如下：
-![github](https://github.com/george518/GO_ClipImg/blob/master/images/ui.png?raw=true "github")
+![github](https://github.com/george518/GO-ClipImg/blob/master/images/ui.png?raw=true "github")
 <br/><br/>
 
 【mac用户可以直接下载go-clipimg.dmg安装使用。】
